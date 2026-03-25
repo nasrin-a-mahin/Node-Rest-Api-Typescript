@@ -60,8 +60,8 @@ src/
 Clone the repository:
 
 ```
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/nasrin-a-mahin/Node-Rest-Api-Typescript.git
+cd Node-Rest-Api-Typescript
 ```
 
 Install dependencies:
